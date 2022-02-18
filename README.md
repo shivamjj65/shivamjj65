@@ -1,9 +1,9 @@
 ## Hi I am Shivam Ilasariya
 
-I am a student and a programmer interested in Web Development & I also enjoy working in C, Python and Web Development
+I am a student and a programmer interested in Software and Web Development & I also enjoy working in C, Python and Web Development Tools.
 
 - Currently student at Rajiv Gandhi Institute Of Technology, Mumbai.
-- Looking for opportunities to join as an intern/full time candidate for web development projects.
+- Looking for opportunities to join as an intern/full time candidate for projects.
 
 <details open>
 <summary><b>To connect with me<b></summary>
