@@ -6,9 +6,9 @@ I am a I.T UnderGraduate interested in Software and Web Development & I also enj
 
 <details open>
 <summary><b>To connect with me<b></summary>
-
+#Visit my personal website (https://shivamjj65.vercel.app) or
 <p align = "center">
-#Visit my personal website (https://shivamjj65.vercel.app)
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shivam-ilasariya/)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/shivamjj65) 
 [<img src = "https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/shivamjj65)
