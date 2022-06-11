@@ -1,4 +1,4 @@
-## Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">I am Shivam Ilasariya
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">I am Shivam Ilasariya
 I am a I.T UnderGraduate interested in Software and Web Development & I also enjoy working in C, Python and Web Development Tools.
 
 - Pursued B.E from Rajiv Gandhi Institute Of Technology, Mumbai.
@@ -8,7 +8,7 @@ I am a I.T UnderGraduate interested in Software and Web Development & I also enj
 <summary><b>To connect with me<b></summary>
 
 <p align = "center">
-
+#Visit my personal website (https://shivamjj65.vercel.app)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shivam-ilasariya/)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/shivamjj65) 
 [<img src = "https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/shivamjj65)
