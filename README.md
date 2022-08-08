@@ -1,5 +1,5 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">  I am Shivam Ilasariya
-I am a I.T UnderGraduate interested in Software and Web Development & I also enjoy working in C, Python and Web Development Tools.
+## Hi, I am Shivam Ilasariya
+I am a I.T Graduate interested in Software and Web Development & I also enjoy working in C, C# and Web Development frameworks & tools.
 
 - Pursued B.E from Rajiv Gandhi Institute Of Technology, Mumbai.
 - Looking for opportunities to join as an intern/full time candidate for projects.
