@@ -1,8 +1,8 @@
 ## Hi, I am Shivam Ilasariya
-I am a I.T Undergraduate interested in Software and Web Development & I also enjoy working in C, C# and Web Development frameworks & tools.
-
+Software Enginner with skills in .NET, Angular, AWS and Terraform & I also enjoy working in C, C# and Web Development frameworks & other tools.
+- S.E at Capgemini
 - Pursued B.E from Rajiv Gandhi Institute Of Technology, Mumbai.
-- Looking for opportunities to join as an intern/full time candidate for projects.
+- Looking for new opportunities.
 
 <details open>
 <summary><b>To connect with me<b></summary>
