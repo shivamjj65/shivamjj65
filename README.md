@@ -1,5 +1,5 @@
 ## Hi, I am Shivam Ilasariya
-Software Enginner with skills in .NET, Angular, AWS and Terraform & I also enjoy working in C, C# and Web Development frameworks & other tools.
+Software Enginner with skills in RPA, AWS and Terraform & I also enjoy working in C, C# and Web Development frameworks & other tools.
 - S.E at Capgemini
 - Pursued B.E from Rajiv Gandhi Institute Of Technology, Mumbai.
 - Looking for new opportunities.
